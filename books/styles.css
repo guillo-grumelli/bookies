@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+}
+
+.text-center{
+    color: darkgray;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.card-body{
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:blanchedalmond;
+}
